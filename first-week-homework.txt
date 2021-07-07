@@ -1,0 +1,11 @@
+1. 졸업작품을 하고있는데 그 프로젝트를 팀원들과 관리하고싶습니다.
+2. 
+- 버전 관리
+- git 초기화 (initialize, init)
+- add / staging
+- commit (커밋)
+- commit 내역(history)
+- push
+- pull
+- clone
+- tracking
